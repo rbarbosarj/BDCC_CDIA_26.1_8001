@@ -1,4 +1,4 @@
-# 🚀 AC4 – Deploy de Aplicações Django na AWS
+# 🚀 AC4 – Deploy de Aplicações Django na AWS 
 
 Este repositório contém a resolução completa da **AC4 (Atividade Avaliativa 4)** da disciplina de **Big Data & Cloud Computing** do curso de **Engenharia de Computação (Período 2026.1)**. 
 
